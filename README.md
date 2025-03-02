@@ -1,4 +1,4 @@
-# Hi there, I'm Hossein Dehghan-Dehnavi 👋
+<h1 align="center"> Hi there, I'm Hossein Dehghan-Dehnavi 👋</h2>
 
 ## About Me
 
