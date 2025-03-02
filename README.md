@@ -27,6 +27,3 @@ Feel free to reach out if you're interested in collaborating on projects or just
 
 <div align="center"> <a href="https://t.me/dehghandehnavihossein"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40"/></a>&nbsp;&nbsp; <a href="https://instagram.com/dehghandehnavihossein"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/></a>&nbsp;&nbsp; <a href="https://linkedin.com/in/dehghandehnavihossein"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/></a>&nbsp;&nbsp; <a href="mailto:dehghandehnavihossein@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40"/></a> </div>
 
-----------
-
-[dehghandehnavihossein](https://github.com/dehghandehnavihossein)
